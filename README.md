@@ -164,3 +164,10 @@
     - Magisches Vieleck
     - Konjunktur
     - Eurozone – EZB
+
+	________________
+  - Playlist 
+   -  [IHK Fachinformatiker Prüfungsvorbereitung 2020](https://www.youtube.com/watch?v=8G6qFARcEN4&list=PLE8MqlUYwmXnK9O2m0R2Xu0O-uDDQgMUk)
+   -  [Prüfung Fachinformatiker](https://www.youtube.com/watch?v=01Wieg6mYuo&list=PLZ2Y8vW97ccocv2CfgSFvweQzTUj2Qnsa&ab_channel=ADACORHosting)
+   -  [IHK Prüfungsvorbereitung Fachinformatiker](https://www.youtube.com/watch?v=9B-io9HIj5Q&list=PLawE8NVPuBahxwqH5_pmCCsz1VYQmVcUe&ab_channel=GripsCoachTV)
+   -  [Abschlussprüfung Fachinformatiker](https://www.youtube.com/watch?v=t75m9g83zcI&list=PLLw_FEyr36FAD_L9JXkMa6w-EIGbK46Kc&ab_channel=ITAzubi)
