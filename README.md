@@ -1,4 +1,4 @@
-##Fachinformatiker Anwendungsentwicklung Abschlussprüfung
+#Fachinformatiker Anwendungsentwicklung Abschlussprüfung
   - Programmierung und Anwendungsentwicklung.
     - Kontrollstrukturen, Darstellung von Algorithmen
       - Verzweigungen, Schleifen
