@@ -171,3 +171,8 @@
    -  [Prüfung Fachinformatiker](https://www.youtube.com/watch?v=01Wieg6mYuo&list=PLZ2Y8vW97ccocv2CfgSFvweQzTUj2Qnsa&ab_channel=ADACORHosting)
    -  [IHK Prüfungsvorbereitung Fachinformatiker](https://www.youtube.com/watch?v=9B-io9HIj5Q&list=PLawE8NVPuBahxwqH5_pmCCsz1VYQmVcUe&ab_channel=GripsCoachTV)
    -  [Abschlussprüfung Fachinformatiker](https://www.youtube.com/watch?v=t75m9g83zcI&list=PLLw_FEyr36FAD_L9JXkMa6w-EIGbK46Kc&ab_channel=ITAzubi)
+   	________________
+ - Prüfungen 
+    -  [Prüfungsvorbereitung](https://drive.google.com/drive/folders/1zdcfUkAM5ybB64NeOa_NThRSiXqi0RII)
+    -  [Prüfungsvorbereitung mit 2020](https://drive.google.com/drive/u/0/folders/0B6eHrqfVPEKxRFZtOWt3UnJmSVk)
+    -  [Prüfungsvorbereitung mit Zusammenfassungen](https://drive.google.com/drive/u/0/folders/13utonjoRcVvh_mi-dqySJK5HGSUZzVXY)
