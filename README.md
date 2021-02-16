@@ -174,5 +174,6 @@
    -  [Prüfungsvorbereitung](https://drive.google.com/drive/folders/1zdcfUkAM5ybB64NeOa_NThRSiXqi0RII)
    -  [Prüfungsvorbereitung mit 2020](https://drive.google.com/drive/u/0/folders/0B6eHrqfVPEKxRFZtOWt3UnJmSVk)
    -  [Prüfungsvorbereitung mit Zusammenfassungen](https://drive.google.com/drive/u/0/folders/13utonjoRcVvh_mi-dqySJK5HGSUZzVXY)
+   -  [Lernthemen und Lösungen](https://www.derpade.de/ga1-lernthemen-und-loesungen-fachinformatiker-fuer-anwendungsentwicklung/)
 
 
