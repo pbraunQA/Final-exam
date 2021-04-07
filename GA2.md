@@ -335,575 +335,723 @@ Welche Eigenschaft zeichnet starke Komponenten aus?
 - Hohe Verfügbarkeit durch redundate Komponenten
 
 
-Vorteile von Thin Clients geg. Fat Clients /Fileserver-System
+###### Vorteile von Thin Clients geg. Fat Clients /Fileserver-System
 
-Vorteile	Nachteile
+Vorteile:
 Kein Datenverlust bei Ausfall oder Diebstahl vn Thin Client
-Geringere Total Cost of Owner Geringerer Adiministrationsaufwand	Funktion der clients Abhänging vom Terminalserver und Netz
+Geringere Total Cost of Owner
+Geringerer Adiministrationsaufwand
+
+Nachteile:
+Funktion der clients Abhänging vom Terminalserver und Netz
 Höhere Kosten für einen leistungsstarke Terminalserver gegenüber einem Fileserver
 geringere Softwareauswahl
  
- 
+###### Was ist IT Security Policy?
 
-.
+- Rechte und Pflichten von Anwendern 
+- Maßnahmen zum Schutz des Netzwerks 
+- Maßnahmen zum Schutz dr gesicherten Daten
+- Maßnahmen und Notfallpläne zur Minimierung von Sicherheitsproblemen
 
- 
-Was ist IT Security Policy?
+###### Wie kann der Zugrif auf ein Lan Netzwerk über VPN eingerichtet werden? (Ohne statische öftl. IP)
+- Einrichtung von dynamischen DNS-Service
+- VPN Router muss über einen dyn-dns-client verfügen
+- Konto bei dynamischen DNS Dienst einrichten è Benutzerkennung, Passwort und Hostname müssen angegeben werden
 
-Rechte und Pflichten von Anwendern Maßnahmen zum Schutz des Netzwerks Maßnahmen zum Schutz dr gesicherten Daten
-Maßnahmen und Notfallpläne zur Minimierung von Sicherheitsproblemen
+###### USV-Klassifizierungen beschreiben:
 
-Wie kann der Zugri" auf ein Lan Netzwerk über VPN eingerichtet werden? (Ohne statische ö"tl. IP)
-Einrichtung von dynamischen DNS-Service
-VPN Router muss über einen dyn-dns-client verfügen
-Konto bei dynamischen DNS Dienst einrichten è Benutzerkennung, Passwort und Hostname müssen angegeben werden
-
-USV-Klassifizierungen beschreiben:
-
-VFD
- 
-
-
+VFD:
+- Leitet Strom direkt von Eingang zum Ausgang 
+- 10ms Umschaltverzögerung
+- onine/passiv
+- kompensiert Spannungspitzen im 4ms bis 16ms Bereich
 
 VI
-
+- Eingangsspannung unabhängig von Ausgangspannung 
+- Spannungsfrequenz wird von Eingangsspannungsfreq. Bestimmt
+- Umschaltzeit 2-4ms
 
 VFI
  
-Leitet Strom direkt von Eingang zum Ausgang 10ms Umschaltverzögerung
-o½ine/passiv
-kompensiert Spannungspitzen im 4ms bis 16ms Bereich
-Eingangsspannung unabhängig von Ausgangspannung Spannungsfrequenz wird von Eingangsspannungsfreq. Bestimmt Umschaltzeit 2-4ms
-
-Ausgang wird ausschlißelich von einem Wechselrichter gespeißt Schützt vor Frequenzsschwankungen, Unter-/Überspannung Online/Dauerbetrieb
-Keine Umschaltzeit
+- Ausgang wird ausschlißelich von einem Wechselrichter gespeißt 
+- Schützt vor Frequenzsschwankungen, Unter-/Überspannung 
+- Online/Dauerbetrieb
+- Keine Umschaltzeit
  
+###### Vor- und Nachteile von USV-Klassifizierungen
 
-Vor- und Nachteile von USV-Klassifizierungen
-VFI -> geringerr Wirkungsgrad, höhere Kosten, höherer Stromverbrauch
-VFI -> ständiges erzeugen einer Sinusförmigen Wechselspannung, keine Umschaltzeit
-       Gründe zum Umbau von Ladenlokal in IT Systemhaus?
+- VFI -> geringerr Wirkungsgrad, höhere Kosten, höherer Stromverbrauch
+- VFI -> ständiges erzeugen einer Sinusförmigen Wechselspannung, keine Umschaltzeit
 
-Internetgeschäft boomt und entwickelt sich zur starken Konkurrenz. Gute Umsatzrendite bei Schulungen, Netzwerkinstallation und Beratung. Anpassung an Nachfrage.
-Absetzung vom Internetgeschäft (man muss verkaufen, was es nicht im Internet gibt).
-Oder Service anbieten, den es nur lokal geben kann.
+###### Gründe zum Umbau von Ladenlokal in IT Systemhaus?
 
-Geschäftsbereiche und Anwendungen erläutern:
+- Internetgeschäft boomt und entwickelt sich zur starken Konkurrenz.
+- Gute Umsatzrendite bei Schulungen, Netzwerkinstallation und Beratung.
+- Anpassung an Nachfrage.
+- Absetzung vom Internetgeschäft (man muss verkaufen, was es nicht im Internet gibt).
+-- Oder Service anbieten, den es nur lokal geben kann.
 
-Geschäftsprozess optimieren
-Unternehmen, Behörden
-Ist-Aufnahme der Geschäftsprozesse Qm-System einrichten
-Umbau auf Geschäftsprozessorientierte Software
-Green-IT
-Unternehmen, behörden, private Personen, staatliche Institutionen Feststellung des Energiebedarfs und Einschätzung des Energiesparpotentials Umstellung der Ressourcen
-Zertifizierung mit Siegel Marketing
-Intelligenter Stromzähler
-Virtualisierung
-Unternehmen, Behörden, staatliche Einrichtungen Feststellung des Virtualisierungspotentials Optimierung der Netzinfrastruktur
-Einrichtung virtueller Maschinen Virtuelle Serversicherheit herstellen
- 
-CRM
+###### Geschäftsbereiche und Anwendungen erläutern:
 
- 
+Geschäftsprozess optimieren:
+- Unternehmen, Behörden
+- Ist-Aufnahme der Geschäftsprozesse 
+- Qm-System einrichten
+- Umbau auf Geschäftsprozessorientierte Software
 
- 
+Green-IT:
+- Unternehmen, behörden, private Personen, staatliche Institutionen
+- Feststellung des Energiebedarfs und Einschätzung des Energiesparpotentials 
+- Umstellung der Ressourcen
+- Zertifizierung mit Siegel 
+- Marketing
+- Intelligenter Stromzähler
 
- 
- 
-Unternehmen
-Leistung und Kundenanforderung ermitteln CRM auswählen/installieren/beraten/schulungen
- 
-E-Business
-Unternehmen
-Möglichkeit zur elektronischen Geschäftsfähigkeit feststellen Ausschreibung, Installation
-IT-Rollout
-Unternehmen, ö"entliche Einrichtungen, Privatkunden Austausch von Hard und Software Komponenten planen Installieren, testen, übergeben
-Schulungen
-Mobilder Schulungsraum
-Unternehmen, ö"entliche Einrichtungen, Privatkunden Mobilen Schulungsraum anbieten
-Schulungen durchführen
-Anliefern, installieren, testen, übergeben Catering anbieten
- 
+Virtualisierung:
+- Unternehmen, Behörden, staatliche Einrichtungen
+- Feststellung des Virtualisierungspotentials 
+- Optimierung der Netzinfrastruktur
+- Einrichtung virtueller Maschinen 
+- Virtuelle Serversicherheit herstellen
 
-Vor- und Nachteile von Organisationsstrukturen nennen:
+CRM:
+- Unternehmen
+- Leistung und Kundenanforderung ermitteln 
+- CRM auswählen/installieren/beraten/schulungen
 
-Hier werden meistens in den Prüfungen gewisse Organisationsstrukturen gezeigt und ihr sollt diese dann vergleichen und die Vor- und Nachteile nennen.
+E-Business:
+- Unternehmen
+- Möglichkeit zur elektronischen Geschäftsfähigkeit feststellen 
+- Ausschreibung, Installation
 
-Maßnahmen der Kommunikationspolitik für:
+IT-Rollout:
+- Unternehmen, öfentliche Einrichtungen, Privatkunden 
+- Austausch von Hard und Software Komponenten planen 
+- Installieren, testen, übergeben
+- Schulungen
+
+Mobilder Schulungsraum:
+- Unternehmen, öfentliche Einrichtungen, Privatkunden 
+- Mobilen Schulungsraum anbieten
+- Schulungen durchführen
+- Anliefern, installieren, testen, übergeben 
+- Catering anbieten
+
+###### Vor- und Nachteile von Organisationsstrukturen nennen:
+
+- Hier werden meistens in den Prüfungen gewisse Organisationsstrukturen gezeigt und ihr sollt diese dann vergleichen und die Vor- und Nachteile nennen.
+
+###### Maßnahmen der Kommunikationspolitik für:
 
 Gewinnung neue Kunden:
-Tag der o"enen Tür Stand auf Regionalmesse
-Imagebroschüre/Hauszeitschrift
+- Tag der ofenen Tür 
+- Stand auf Regionalmesse
+- Imagebroschüre/Hauszeitschrift
+
 Bindung der Kunden an das Unternehmen:
-Key Account Manager einsetzen CRM-System
-Direktwerbung verstärken Projektmanagement
-Hoher Bekanntheitsgrad des jweilig aktuellen IT-Schulungsangebot
-Online Newsletter
-E-Mail Rundschreiben Direktanschreiben/Direktkontakt Brief rundschreiben
-Außendarstellung als leistungsstarkes nd hochmotiviertes IT Systemhaus
-Erscheinungsbild der Firma (Corporate indentity) Einladung von Prominenten und Fachleuten für Vorträge Pressemitteilungen und Erfolgsmeldung
+- Key Account Manager einsetzen 
+- CRM-System
+- Direktwerbung verstärken 
+- Projektmanagement
 
-Welche Aspekte sind bei der Akquisition von öfentlich staatlichen Aufträgen zu beachten?
+Hoher Bekanntheitsgrad des jweilig aktuellen IT-Schulungsangebot:
+- Online Newsletter
+- E-Mail Rundschreiben
+- Direktanschreiben/Direktkontakt 
+- Brief rundschreiben
 
-Größere Aufträge werden meist über Ausschreibungen ausgewählt. Ausschreibungsbedingungen und Verpflichtungen genau prüfen. Häufig QM-Zertifikate nötig.
-Teilnehmer müssen ihre Eignung anhand von Referenzen nachweisen.
+Außendarstellung als leistungsstarkes nd hochmotiviertes IT Systemhaus:
+- Erscheinungsbild der Firma (Corporate indentity) 
+- Einladung von Prominenten und Fachleuten für Vorträge 
+- Pressemitteilungen und Erfolgsmeldung
 
-Was sind unzulässige  Werbemaßnehmen ?
+###### Welche Aspekte sind bei der Akquisition von öfentlich staatlichen Aufträgen zu beachten?
 
-Irreführende Werbung -> Werbung muss klar und deutlich sein Preisreduktion nach erhöhtem Preis
-Unaufgeforderte Telefonanrufe
-E-Mail Schreiben ohne Einverständniserklärung Vergleichende Werbung
-Nettopreise bei privaten Endkunden Versteckte Zusatzklauseln
+- Größere Aufträge werden meist über Ausschreibungen ausgewählt.
+- Ausschreibungsbedingungen und Verpflichtungen genau prüfen.
+- Häufig QM-Zertifikate nötig.
+- Teilnehmer müssen ihre Eignung anhand von Referenzen nachweisen.
 
-Welche kostenlose Werbemaßnehmen gibt es?
+###### Was sind unzulässige  Werbemaßnehmen ?
 
-Weiterempfehlung von Kunden Redaktionale Beiträge in der Presse Gute Produkte und Leistungen Kompetentes Auftreten
+- Irreführende Werbung -> Werbung muss klar und deutlich sein
+- Preisreduktion nach erhöhtem Preis
+- Unaufgeforderte Telefonanrufe
+- E-Mail Schreiben ohne Einverständniserklärung
+- Vergleichende Werbung
+- Nettopreise bei privaten Endkunden 
+- Versteckte Zusatzklauseln
 
-Gewinn- und Kostenrechnung
+###### Welche kostenlose Werbemaßnehmen gibt es?
 
-Erfolg = Erlöse – Fix Kosten – variable Kosten Deckungsbeitrag = Erlösd – variable Kosten Gewinnschwelle = Fixkosten/Deckungsbeitrag
+- Weiterempfehlung von Kunden 
+- Redaktionale Beiträge in der Presse
+- Gute Produkte und Leistungen 
+- Kompetentes Auftreten
 
-Welche Maßnahmen dienen der Senkung der Gewinnschwelle?
+###### Gewinn- und Kostenrechnung
 
-Kosten allgemein senken: Raumkosten Personalkoste Marketingkosten Testkosten Kundenbetreuungskosten
+- Erfolg = Erlöse – Fix Kosten – variable Kosten 
+- Deckungsbeitrag = Erlösd – variable Kosten 
+- Gewinnschwelle = Fixkosten/Deckungsbeitrag
 
-Vorgehensweise der Prozesskostensatzermittlung:
+###### Welche Maßnahmen dienen der Senkung der Gewinnschwelle?
 
-Teilprozesse ermitteln Planprozesskosten ermitteln Plannprozessmenge ermitteln
-Prozesskostensatz ermittel -> Planprozesskosten/Planprozessmenge
-Umlagesatz berechnen: Planprozesskosten * Prozesskostensatz / Summe  Planprozesskosten Gesamtprozesskostensätze = Umlagesatz + Prozesskostensatz
+- Kosten allgemein senken: 
+-- Raumkosten 
+-- Personalkoste 
+-- Marketingkosten 
+-- Testkosten 
+-- Kundenbetreuungskosten
 
-Welche Parameter können mit DHCP übergeben werden?
-Subnetzmaske IP-adresse
-Gateway Broadcast DNS Server Domainname Lease time
+###### Vorgehensweise der Prozesskostensatzermittlung:
+
+- Teilprozesse ermitteln 
+- Planprozesskosten ermitteln
+- Plannprozessmenge ermitteln
+- Prozesskostensatz ermittel -> Planprozesskosten/Planprozessmenge
+- Umlagesatz berechnen: Planprozesskosten * Prozesskostensatz / Summe  Planprozesskosten 
+- Gesamtprozesskostensätze = Umlagesatz + Prozesskostensatz
+
+###### Welche Parameter können mit DHCP übergeben werden?
+- Subnetzmaske 
+- IP-adresse
+- Gateway 
+- Broadcast 
+- DNS Server
+- Domainname 
+- Lease time
  
+###### Vorteile Nachteile einer DHCP Adressvergabe gegen statische:
 
-Vorteile Nachteile einer DHCP Adressvergabe gegen statische:
+- Vermeidung  von Adressonflikten
+- Automatische Ip Konfiguration
+- Zentrale Verwaltung von Netzwerkparametern 
+- Felixible Anpassung
 
-Vermeidung  von Adressonflikten
-Automatische Ip Konfiguration
-Zentrale Verwaltung von Netzwerkparametern Felixible Anpassung
+###### Welche 3 privaten Adressbereiche gibt es nach RFC 1918 Standard?
+- 0.0.0 bis 10.255.255.255
+- 16.0.0 bis 172.31.255.255
+- 168.0.0 bis 192.168.255.255
 
-Welche 3 privaten Adressbereiche gibt es nach RFC 1918 Standard?
-0.0.0 bis 10.255.255.255
-16.0.0 bis 172.31.255.255
-168.0.0 bis 192.168.255.255
-       Tätigkeit für die 7 Projektphasen angeben
+###### Tätigkeit für die 7 Projektphasen angeben
+
 1.	Analyse -> Ist-Aufnahme
 2.	Entwurf -> Soll Konzept
 3.	Planung -> Bedarf ermitteln, Zeit planen, Arbeit planen, Budget planen
-4.	Realisierung -> Ressourcen bereitstellen: finanzielle Mittel, Arbeitskräfte; Hard und Software: bescha"en, konfigurieren, installieren
+4.	Realisierung -> Ressourcen bereitstellen: finanzielle Mittel, Arbeitskräfte; Hard und Software: beschafen, konfigurieren, installieren
 5.	Test -> entwerfen, durchführen, protokollieren
 6.	Einführung -> schulen und einweisen
 7.	Übergabe -> Übergabe protokollieren, Abnahme unterzeichnen
 
-Aufgaben eines Projektleiters
+###### Aufgaben eines Projektleiters
 
-Teilziele festlegen Mitarbeitereinsatz planen Aufgaben verteilen Arbeitsmittel planen
+- Teilziele festlegen 
+- Mitarbeitereinsatz planen 
+- Aufgaben verteilen 
+- Arbeitsmittel planen
 usw
 
-Server-Virtualisierung erläutern:
+###### Server-Virtualisierung erläutern:
 
-Ein physischer Server wird in mehrer virtuelle Server unterteilt.
+- Ein physischer Server wird in mehrer virtuelle Server unterteilt.
 
-Vor und Nachteile von Server Virtualisierung gegen physikalischen Servern:
+###### Vor und Nachteile von Server Virtualisierung gegen physikalischen Servern:
 
-Vorteile	Nachteile
-Energieeinsparung Geringerer Platzbedarf
-Bessere Auslatung der Hardware	Performanceproblem Ausfallrisiko bei Hardwareausfall Zusätzliches Wissen von Admins
+Vorteile:
+- Energieeinsparung 
+- Geringerer Platzbedarf
+- Bessere Auslatung der Hardware
 
-Möglichkeiten von Server-Virtualisierung auf Hardware Ebene:
+Nachteile:
+- Performanceproblem 
+- Ausfallrisiko bei Hardwareausfall 
+- Zusätzliches Wissen von Admins
 
-Serverpartitionierung Prozessorvirtualisierung Speichervirtualisierung
+###### Möglichkeiten von Server-Virtualisierung auf Hardware Ebene:
 
-Vorteile virtuelle Arbeitsplatzrechner gegen physikalischen Arbeitsplatzrechnern:
+- Serverpartitionierung 
+- Prozessorvirtualisierung 
+- Speichervirtualisierung
 
-Bessere Sicherung von Daten Einfaches verwalten von mehreren PCs Einfache Installation von neuen PCs
-Lieferungsverzug ermitteln. Fehler im Lieferschein finden
-DIN 5008
-Lieferdatum vorhanden? Lieferanschrift vorhanden? Preis vorhanden?
+###### Vorteile virtuelle Arbeitsplatzrechner gegen physikalischen Arbeitsplatzrechnern:
 
-Fehler in Rechnung finden
-DIN 5008
-Rechnungsnummer vorhanden? ID vorhanden?
-Datum?
+- Bessere Sicherung von Daten 
+- Einfaches verwalten von mehreren PCs 
+- Einfache Installation von neuen PCs
 
-Wann beginnt die gesetzliche Gewährleistungspflicht?
+###### Fehler im Lieferschein finden
+- DIN 5008
+- Lieferdatum vorhanden? 
+- Lieferanschrift vorhanden?
+- Preis vorhanden?
 
-Nach dem Erhalt der Ware.
+###### Fehler in Rechnung finden
+- DIN 5008
+- Rechnungsnummer vorhanden? 
+- ID vorhanden?
+- Datum?
 
-Dauer der gesetzlichen Gewährleistungspflicht: 2 Jahre
+###### Wann beginnt die gesetzliche Gewährleistungspflicht?
 
-Welcher Mangel liegt vor?:
+- Nach dem Erhalt der Ware.
 
-Hier müsst ihr den Mangel einer Ware bestimmen.
+###### Dauer der gesetzlichen Gewährleistungspflicht:
+- 2 Jahre
 
-       Wann muss ein Mangel von einem Kunden gemeldet werden? 
+###### Berechnung der nötigen Scheinleistung einer USV:
 
-Berechnung der nötigen Scheinleistung einer USV:
-Scheinleistung (VA) = Wirkleisuntg + Blindleistung Blindleisung pendelt zwischen Verbraucher und Erzeuger
-Man bezahlt quasi nichts dafür, aber die Leistung ist vorhanden Zusätzlicher Faktor ca 1,55 – 1,75W/VA
+- Scheinleistung (VA) = Wirkleisuntg + Blindleistung
+- Blindleisung pendelt zwischen Verbraucher und Erzeuger
+-- Man bezahlt quasi nichts dafür, aber die Leistung ist vorhanden 
+- Zusätzlicher Faktor ca 1,55 – 1,75W/VA
 
-Wovor schützt eine VFI-USV noch?
+###### Wovor schützt eine VFI-USV noch?
 
-Blitzeinschlag Frequenzschankungen Spannungsstöße Spannungsverzerrungen
+- Blitzeinschlag 
+- Frequenzschankungen 
+- Spannungsstöße 
+- Spannungsverzerrungen
 
-JBOD Festplattenbetrieb erläutern:
-Just a bound of disks
-Mehrere Festplatten in einem Gehäuse
-Kein Controller, die Festplatten werden vom Server direkt angesteuert
+###### JBOD Festplattenbetrieb erläutern:
+- Just a bound of disks
+- Mehrere Festplatten in einem Gehäuse
+- Kein Controller, die Festplatten werden vom Server direkt angesteuert
 
-Passive RFID Technik erläutern:
+###### Passive RFID Technik erläutern:
 
-Beziehen Energie aus einem erzeugten Magnetfeld Senden danach ihre fest kodierte Identifikationsnummer Haben keine Batterie
+- Beziehen Energie aus einem erzeugten Magnetfeld 
+- Senden danach ihre fest kodierte Identifikationsnummer 
+- Haben keine Batterie
 
-Parität ermitteln:
+###### Parität ermitteln:
 
-Ein Paritätsbit gibt an, ob die übertragene Bit-Folge gerade oder ungerade war 1 = gerade; 0 = ungerade
-Werksvertrag und Dienstvertrag, welcher ist günstiger? Werksvertrag:
-Einmalige Leistung
-Es erfolgt eine Abnahme Auftragnehmer haften bei nicht erfüllen
+- Ein Paritätsbit gibt an, ob die übertragene Bit-Folge gerade oder ungerade war 
+- 1 = gerade; 0 = ungerade
+
+###### Werksvertrag und Dienstvertrag, welcher ist günstiger? 
+Werksvertrag:
+- Einmalige Leistung
+- Es erfolgt eine Abnahme 
+- Auftragnehmer haften bei nicht erfüllen
 
 Dienstvertrag:
-Der Auftragnehmer verpflichtet sich zur Leistung aber nicht zum Erfolg!
+- Der Auftragnehmer verpflichtet sich zur Leistung aber nicht zum Erfolg!
 
-Notwendige Inhalte einer Service-Level-Agreement
+###### Notwendige Inhalte einer Service-Level-Agreement
 
-Beschreibung der Wartungsarbeiten. Reaktionszeit in Notfällen.
-Rechtsfolge bei Nichteinhalten. Kosten für Ersatzteile.
+- Beschreibung der Wartungsarbeiten. 
+- Reaktionszeit in Notfällen.
+- Rechtsfolge bei Nichteinhalten. 
+- Kosten für Ersatzteile.
 
-Kostenvergleich durchführen:
+###### Eigenschaften von Cloud Computing
 
-Was bietet sich zum Beispiel eher an? Eine Maschine zu leasen, zu finanzieren oder aus Eigenkapital zu bezahlen?
-Eigenschaften von Cloud Computing
+- Online Angebot von IT-Strukturen und Anwendungen.
+- Systeme und Anwendungen sind skalierbar.
+- Leistungen werden nach Nutzvolumen bezahlt.
+- Hohe Verfügbarkeit.
 
-Online Angebot von IT-Strukturen und Anwendungen. Systeme und Anwendungen sind skalierbar.
-Leistungen werden nach Nutzvolumen bezahlt. Hohe Verfügbarkeit.
+###### Cloud Anwendungen , die heute im Privatbereich eingesetzt werden?
+- Facebook, Twitter, Myspace, Amazon, Google usw.
 
-Cloud Anwendungen , die heute im Privatbereich eingesetzt werden?
-Facebook, Twitter, Myspace, Amazon, Google usw.
-
-SaaS erläutern und Beispiele
-Software as a Service.
-Provider stellt on Demand Software funktionstüchtig zur Verfügung. Nutzbar mittels Thin Client (Webbrowser).
-Kunde zahlt nur für Nutzung. Zentraler Speicherort der Daten.
+###### SaaS erläutern und Beispiele
+- Software as a Service.
+- Provider stellt on Demand Software funktionstüchtig zur Verfügung. 
+- Nutzbar mittels Thin Client (Webbrowser).
+- Kunde zahlt nur für Nutzung. 
+- Zentraler Speicherort der Daten.
 
 Beispiele:
-Office Anwendungen ERP Software
-CRM Software Content Management E-Mail Webinterface
+- Office Anwendungen 
+- ERP Software
+- CRM Software 
+- Content Management 
+- E-Mail Webinterface
 
+###### Argumente gegen Cloud Computing:
+- Anwendungen können ausfallen.
+- Daten sind beim Provider, evtl. nicht sicher.
+- Kein 100%iger Datenschutz.
+- Man macht sich rechtlich und technisch abhängig.
 
- 
+###### Vorteile von Cloud Computing von Dienstleistern gegen eigenes Rechenzentrum:
 
-Argumente gegen Cloud Computing:
-Anwendungen können ausfallen.
-Daten sind beim Provider, evtl. nicht sicher. Kein 100%iger Datenschutz.
-Man macht sich rechtlich und technisch abhängig.
+- Verbrauchsgerechte Abrechnung 
+- Flexible Anpassung
+- Geringe Personalkosten 
+- Einsparung von Energiekosten
 
-Vorteile von Cloud Computing von Dienstleistern gegen eigenes Rechenzentrum:
+###### Private Cloud:
 
-Verbrauchsgerechte Abrechnung Flexible Anpassung
-Geringe Personalkosten Einsparung von Energiekosten
+- Hard und Software werden ausschließlich von einem unternehmen genutzt. 
+- Das risiko des Datenmissbrauchs ist gering.
+- Die It Infrastruktur wird von einer anderen Firma betrieben.
 
-Private Cloud:
+###### Public Cloud:
 
-Hard und Software werden ausschließlich von einem unternehmen genutzt. Das risiko des Datenmissbrauchs ist gering.
-Die It Infrastruktur wird von einer anderen Firma betrieben.
+- Hard und Software werden ncht nur von einem Kunden genutzt.
+- Gefahr von Datenmissbrauch.
+- Cloud Provider stellt Infratruktur.
 
-Public Cloud:
+###### Hybrid Cloud:
+- Eine Mischung aus private und public
 
-Hard und Software werden ncht nur von einem Kunden genutzt. Gefahr von Datenmissbrauch.
-Cloud Provider stellt Infratruktur.
+###### Merkmale  von  SAN und NAS (Unterschiede)
+- Höhere performance
+- Erlaubt zeitnahe Datensicherung 
+- Arbeitet blockbasierend
 
-Hybrid Cloud:
-Eine Mischung aus private und public
+###### Cloud Vertraulichkeit beschreiben:
+- Daten dürfen hauptsächlich nur vertraulichen Personen gegeben werden.
 
-Merkmale  von  SAN und NAS (Unterschiede)
-Höhere performance
-Erlaubt zeitnahe Datensicherung Arbeitet blockbasierend
+###### Cloud Integrität
+- Unverfälschbarkeit der Daten. 
 
-Cloud Vertraulichkeit beschreiben:
+###### Gefahren erläutern:
+- Virus: Programmdatei, Verursacht fehler nd Störungen in dateien
+- Spam: Wird über verteilende Programme im Internet verteilt (E Mail), Könnte Schadsoftware enthalten
+- Brute-Forece Attacke: Angri" auf einen krypthografischen Algorithmus (Password Abfrage)
+- DDos durch Botnetz: Backdoor programme legen Server lahm, Gruppe von Software-Bots
 
-Daten dürfen hauptsächlich nur vertraulichen Personen gegeben werden.
+###### VPN Verbindungsmodi mittels IPSec nennen:
 
-Cloud Integrität Unverfälschbarkeit der Daten. Gefahren erläutern:
-Virus: Programmdatei, Verursacht fehler nd Störungen in dateien
-Spam: Wird über verteilende Programme im Internet verteilt (E Mail), Könnte Schadsoftware enthalten
-Brute-Forece Attacke: Angri" auf einen krypthografischen Algorithmus (Password Abfrage)
-DDos durch Botnetz: Backdoor programme legen Server lahm, Gruppe von Software-Bots
+- Transportmodus 
+- Tunnelmodus
 
-VPN Verbindungsmodi mittels IPSec nennen:
+###### Paketheader nennen, nach denen eine Paketfilter Firewall analysiert
 
-Transportmodus Tunnelmodus
+- Quell/Ziel IP-Adresse
+- Quell/Ziel Port
+- Protokolle
+- TCP Flags
 
-Paketheader nennen, nach denen eine Paketfilter Firewall analysiert
+###### Schutzfunktionen einer Application Firewall gegen eine Statefull Inspection Firewall:
 
-Quell/Ziel IP-Adresse Quell/Ziel Port Protokolle
-TCP Flags
+- Inhaltliche Bewertung von Daten
+- Dienste können Benutzerabhängig erlaubt werden 
+- Umfangreiche Protokollierung
+- Keine direkte Kommunikation zwischen Quelle und Ziel
 
-Schutzfunktionen einer Application Firewall gegen eine Statefull Inspection Firewall:
+###### Vorteile von Online:
+- Schneller verfügbar 
+- Weltweit verfügbar 
+- Ultimedia möglich
+- Kann nachträglich angepasst werden 
+- Wird als moderner wahrgenommen
+- kostengünstiger
 
-Inhaltliche Bewertung von Daten
-Dienste können Benutzerabhängig erlaubt werden Umfangreiche Protokollierung
-Keine direkte Kommunikation zwischen Quelle und Ziel
+###### Vorteile von Print Werbung gegen online Werbung
 
-Vorteile von Online:
-Schneller verfügbar Weltweit verfügbar Ultimedia möglich
-Kann nachträglich angepasst werden Wird als moderner wahrgenommen kostengünstiger
+- Internetanschluss erforderlich 
+- Unabhängigkeit
+- Besserer Überblick und lesbarkeit
 
-Vorteile von Print Werbung gegen online Werbung
+###### Onlinemarketingmaßnahmen:
 
-Internetanschluss erforderlich Unabhängigkeit
-Besserer Überblick und lesbarkeit
- 
-Onlinemarketingmaßnahmen:
+- Email Werbung 
+- Newsletter 
+- Website Werbung 
+- Social Marketing
 
-Email Werbung Newsletter Website Werbung Social Marketing
-Zweck Lastenheft:
+###### Zweck Lastenheft:
 
-Der Auftraggeber beschreibt alle Anforderungen in einem Dokument.
+- Der Auftraggeber beschreibt alle Anforderungen in einem Dokument.
 
-Zweck Pflichtenheft:
+###### Zweck Pflichtenheft:
 
-Der Auftragnehmer beschreibt, wie und womit er das Gesamtvorhaben, welches im Lastenheft beschrieben wird, umsetzen wird. Eine gründliche Ausformulierung von Zielen und Nicht-Zielen ist zwingend erforderlich.
-Formel Gewinnzuschlag:
+- Der Auftragnehmer beschreibt, wie und womit er das Gesamtvorhaben, welches im Lastenheft beschrieben wird, umsetzen wird. Eine gründliche Ausformulierung von Zielen und Nicht-Zielen ist zwingend erforderlich.
 
-Gewinnzuschlagssatz = Selbstkosten * Gewinnzuschlag / 100
+###### Formel Gewinnzuschlag:
 
-Formel Kundenskonto:
+- Gewinnzuschlagssatz = Selbstkosten * Gewinnzuschlag / 100
 
-Kundenskonto = Barverkaufspreis * Kundenskontosatz / (100 – Kundenskontosatz)
+###### Formel Kundenskonto:
 
-Formel Materialkostensatz:
+- Kundenskonto = Barverkaufspreis * Kundenskontosatz / (100 – Kundenskontosatz)
 
-Materialkostensatz = Materialkosten * 100 /Fertigungsmaterial
+###### Formel Materialkostensatz:
 
-Was sind Gemeinkosten?
+- Materialkostensatz = Materialkosten * 100 /Fertigungsmaterial
 
-Beschreibt Kosten, die sich nicht direkt aus einem Auftrag ergeben, oder Kosten, die nicht direkt, sondern nur mithilfe von Zuschlagsätzen dem Kostenträger zuzurechnen sind. (Beispielsweise Papierkosten)
-Power-Over-Ethernet beschreiben:
-IEEE-Standard 802.3af
-15,4 Watt maximal (PoE+ scha"t 25,5 Watt)
+###### Was sind Gemeinkosten?
 
-Mängelarten nennen und beschreiben:
-Sachmängel
-Qualitätsmangel
-Vereinbarte Bescha"enheit fehlt/beschädigte Ware Bescha"enheit dient nicht dem Zweck Gewöhnliche Verwendung nicht möglich
-Sache entspricht nicht den Werbeversprechungen bzw. der Kennzeichnungen Fehlerhafte Montage/Fehlerhafte Montageanleitung
-Artmangel
-Lieferung einer anderen Ware Quantitätsmangel
-Zu wenig wurde geliefert Rechtsmangel
-Verkäufer ist nicht Eigentümer
-Sache ist mit Pfandrecht belastet
-Fehlende Lizenz bzw. falsches Nutzungsrecht
+- Beschreibt Kosten, die sich nicht direkt aus einem Auftrag ergeben, oder Kosten, die nicht direkt, sondern nur mithilfe von Zuschlagsätzen dem Kostenträger zuzurechnen sind. (Beispielsweise Papierkosten)
 
+###### Power-Over-Ethernet beschreiben:
+- IEEE-Standard 802.3af
+- 15,4 Watt maximal (PoE+ scha"t 25,5 Watt)
 
-Mängelfristen und Rügen
-Frist 2 Jahre, egal ob der Mangel bekannt ist oder nicht.
-Ausgenommen hiervon sind Mängel, die bei der Abnahme aufgetreten sind und nicht sofort gerügt wurden.
-Mängel nach Ablauf der Frist, müssen sofort gerügt werden, ausgenommen hiervon sind verdeckte Mängel, die bei einer Abnahmeuntersuchung hätten au"allen können.
-O"ene Mängel sind unverzüglich nach Entdeckung zu rügen. Versteckte Mängel sind ebenfalls unverzüglich zu rügen.
+###### Mängelarten nennen und beschreiben:
+- Sachmängel
+-- Qualitätsmangel
+--- Vereinbarte Beschafenheit fehlt/beschädigte
+--- Ware Beschafenheit dient nicht dem Zweck
+--- Gewöhnliche Verwendung nicht möglich
+--- Sache entspricht nicht den Werbeversprechungen bzw. der Kennzeichnungen 
+--- Fehlerhafte Montage/Fehlerhafte Montageanleitung
+- Artmangel
+-- Lieferung einer anderen Ware 
+- Quantitätsmangel
+-- Zu wenig wurde geliefert 
+- Rechtsmangel
+-- Verkäufer ist nicht Eigentümer
+-- Sache ist mit Pfandrecht belastet
+-- Fehlende Lizenz bzw. falsches Nutzungsrecht
 
 
-Welche Rechte gelten bei Mängeln?
+###### Mängelfristen und Rügen
+- Frist 2 Jahre, egal ob der Mangel bekannt ist oder nicht.
+-- Ausgenommen hiervon sind Mängel, die bei der Abnahme aufgetreten sind und nicht sofort gerügt wurden.
+- Mängel nach Ablauf der Frist, müssen sofort gerügt werden, ausgenommen hiervon sind verdeckte Mängel, die bei einer Abnahmeuntersuchung hätten au"allen können.
+- Ofene Mängel sind unverzüglich nach Entdeckung zu rügen. 
+- Versteckte Mängel sind ebenfalls unverzüglich zu rügen.
 
-Lieferung insgesamt verweigern. Abnahme verweigern.
-Annahme der Ware mit Kommentaren -> Vermerk auf dem Lieferschein
 
-Vor-/Nachteile Bring your own Device:
+###### Welche Rechte gelten bei Mängeln?
 
-Vorteile	Nachteile
-Keine Kosten für Anscha"ung, Ersatz oder Reperatur Keine Schulung oder Einweisung nötig
-Höhere Bereitschaft der Benutzer die Anwenudng einzusetzen Ständige Zugri"smöglichkeit	Höhere Aufwand bei der Einbindung, da Geräte unterschiedlich Keine einheitliche Lösung
- 
+- Lieferung insgesamt verweigern. 
+- Abnahme verweigern.
+A- nnahme der Ware mit Kommentaren -> Vermerk auf dem Lieferschein
 
-Veröfentlichen von Bildern:
+###### Vor-/Nachteile Bring your own Device:
 
-Wann darf ein Bild einer Person verö"entlicht werden?
+Vorteile:
+- Keine Kosten für Anschafung, Ersatz oder Reperatur
+- Keine Schulung oder Einweisung nötig
+- Höhere Bereitschaft der Benutzer die Anwenudng einzusetzen Ständige Zugri"smöglichkeit
 
-Aufbau eines Geschäftsbrief beschreiben. Vor- Nachteile von WLAN Kamera:
-Vorteile	Nachteile
-Es wird kein Netzwerkanschluss benötigt Schnelle und einfache Installation Flexibel	Störanfälliger
-Erhöhte Dämpfung durch Hindernisse In der Regel höherer Preis
+Nachteile:
+- Höhere Aufwand bei der Einbindung, da Geräte unterschiedlich 
+- Keine einheitliche Lösung
 
+###### Vor- Nachteile von WLAN Kamera:
+Vorteile
+- Es wird kein Netzwerkanschluss benötigt 
+- Schnelle und einfache Installation Flexibel
 
-Maßnahmen für sicheren Einsatz von privaten Smartphones:
-Passwörter
-Verschlüsselung von Kontaktdaten VPN Verbindung
-Verschlüsselte Datenübertragung
-
-Führungsstile nennen:
-
-Kooperativer usw.
-
-Wesentliche Bestandteile einer Stellenbeschreibung nennen:
-
-Bezeichnung der Stelle Zeichnungsvollmacht Unterstellung/Überstellung Auszuführende Tätigkeit Anforderung an den Stelleninhaber
-
-
-Marketing Beispiele nennen und beschreiben:
-Werbung: Erö"nungsangebote per Plakat oder Anzeige
-Verkaufsförderung: Preisausschreibung zur Einweihung, Merchandising -> Kugelschreiber/USB Sticks
-Public Relations: Hausmesse, Tag der o"enen Tür
-Sponsoring: Lokalen Verein unterstützen
-Social Media Marketing: Facebook, Twitter, Xing
-
-Rechnungen
-Gesetzliche Aufbewahrungsfrist für Rechnung und ab wann beginnt sie?
-10 Jahre ab Jahresende (Fristbeginn) Pflichtangaben einer Rechnung
-Vollständiger Name der Firma Anschrift des Unternehmens Steuer nummer
-ID Nummer Gerichtsstand
-
-Vor- und Nachteile der Upgrades erläutern:
-Bluetooth 2.1 und bluetooth 4.0 -> schnellere Datentransfer, weniger Energieverbrauch
-DDR(1)-RAM und DDR3-RAM -> Höhrer Taktfrequenz, weniger Energieverbrauch, geringere Betriebsspannung
-
-WLAN Modus und Maßnahmen zur Sicherheit erläutern:
-
-Infrastrukturmodus -> Kommunikation über einen zentralen Knotenpunkt Ad-Hoc -> Kommunikation zwischen den Clients direkt ohne Access Point. Drei Maßnahmen zur Sicherheit:
-Einschränkung Netzwerkbereich SSID verstekcen
-WPA Verschlüsselung MAC Adressfilter
-Vorteile von Lichtwellenleiter gegenüber Kupferleiter:
-
-Isolator, keine Gefahr vor Blitzschlag. Nahezu abhörsicher.
-Überbrückung größerer Entfernungen. Hohe Übertragungsraten.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Was ist eine Fusion?
-Verschmelzung zweier rechtskräftigen Unternehmen.
-Ein Unternehmen geht auf das andere um. Meist erhält das übernommene Unternehmen eine Bezahlung in Form von Aktien. Vorteile:
-Größerer Kundenstamm Größeres Leistungsangebot
 Nachteile
-Streitigkeiten, wo Personalabbau stattfinden soll. Oder Wer die Führungskraft behält
+- Störanfälliger
+- Erhöhte Dämpfung durch Hindernisse In der Regel höherer Preis
 
-Finanzierung erläutern:
 
-Finanzierungsvergleich: Leasing oder Finanzieren Liquidität
-Beschreibt die Fähigkeit eines Unternehmens jederzeit seine fälligen Zahlungen folge zu leisten.
-Fremdfinanzierung
-Kapitalzuführung von außen Innenfinanzierung
-Zbsp durch Kapitalbereitstellung
-Eigenfinanzierung è Es wird kein Kapital von außen zugeführt
+###### Maßnahmen für sicheren Einsatz von privaten Smartphones:
+- Passwörter
+- Verschlüsselung von Kontaktdaten 
+- VPN Verbindung
+- Verschlüsselte Datenübertragung
 
-Virtualisierung erläutern
+###### Führungsstile nennen:
 
-Vorteile virtuelle Server gegen physische:
-Energieeinsparung: weniger Kühlung
-Kleinere Rechenzentren: Weniger Server = weniger Stellfläche, weniger Verkabelung Schnellere Provisionierung
-VM läuft unabhängig von der darunter liegenden Hardware Verfügbarkeit verbessern
-Lebenszeit von Alt-Applikationen verlängert sich
+- Kooperativer 
+- usw.
+
+###### Wesentliche Bestandteile einer Stellenbeschreibung nennen:
+
+- Bezeichnung der Stelle
+- Zeichnungsvollmacht
+- Unterstellung/Überstellung 
+- Auszuführende Tätigkeit 
+- Anforderung an den Stelleninhaber
+
+###### Marketing Beispiele nennen und beschreiben:
+- Werbung: Eröfnungsangebote per Plakat oder Anzeige
+- Verkaufsförderung: Preisausschreibung zur Einweihung, Merchandising -> Kugelschreiber/USB Sticks
+- Public Relations: Hausmesse, Tag der o"enen Tür
+- Sponsoring: Lokalen Verein unterstützen
+- Social Media Marketing: Facebook, Twitter, Xing
+
+###### Rechnungen
+- Gesetzliche Aufbewahrungsfrist für Rechnung und ab wann beginnt sie?
+-- 10 Jahre ab Jahresende (Fristbeginn) 
+- Pflichtangaben einer Rechnung
+-- Vollständiger Name der Firma 
+-- Anschrift des Unternehmens
+-- Steuer nummer
+-- ID Nummer 
+-- Gerichtsstand
+
+###### Vor- und Nachteile der Upgrades erläutern:
+- Bluetooth 2.1 und bluetooth 4.0 -> schnellere Datentransfer, weniger Energieverbrauch
+- DDR(1)-RAM und DDR3-RAM -> Höhrer Taktfrequenz, weniger Energieverbrauch, geringere Betriebsspannung
+
+###### WLAN Modus und Maßnahmen zur Sicherheit erläutern:
+
+- Infrastrukturmodus -> Kommunikation über einen zentralen Knotenpunkt 
+- Ad-Hoc -> Kommunikation zwischen den Clients direkt ohne Access Point. 
+- Drei Maßnahmen zur Sicherheit:
+-- Einschränkung Netzwerkbereich 
+-- SSID verstekcen
+-- WPA Verschlüsselung 
+-- MAC Adressfilter
+
+###### Vorteile von Lichtwellenleiter gegenüber Kupferleiter:
+
+- Isolator, keine Gefahr vor Blitzschlag. 
+- Nahezu abhörsicher.
+- Überbrückung größerer Entfernungen. 
+- Hohe Übertragungsraten.
+
+
+###### Was ist eine Fusion?
+- Verschmelzung zweier rechtskräftigen Unternehmen.
+- Ein Unternehmen geht auf das andere um. Meist erhält das übernommene Unternehmen eine Bezahlung in Form von Aktien.
+Vorteile:
+- Größerer Kundenstamm 
+- Größeres Leistungsangebot
+Nachteile:
+- Streitigkeiten, wo Personalabbau stattfinden soll. Oder Wer die Führungskraft behält
+
+###### Finanzierung erläutern:
+
+- Finanzierungsvergleich: Leasing oder Finanzieren 
+- Liquidität
+-- Beschreibt die Fähigkeit eines Unternehmens jederzeit seine fälligen Zahlungen folge zu leisten.
+- Fremdfinanzierung
+-- Kapitalzuführung von außen
+- Innenfinanzierung
+-- Zbsp durch Kapitalbereitstellung
+-- Eigenfinanzierung è Es wird kein Kapital von außen zugeführt
+
+###### Virtualisierung erläutern
+
+###### Vorteile virtuelle Server gegen physische:
+- Energieeinsparung: weniger Kühlung
+- Kleinere Rechenzentren: Weniger Server = weniger Stellfläche, weniger Verkabelung 
+- Schnellere Provisionierung
+- VM läuft unabhängig von der darunter liegenden Hardware 
+- Verfügbarkeit verbessern
+- Lebenszeit von Alt-Applikationen verlängert sich
+
 Unterschiede:
-Hyper-visor
-Setzen direkt auf der Hardware auf und benötigen kein Betriebssystem -> dies setzt entsprechende Hardware voraus. Vor-/Nachteile:
-Keine Anpassung des Gast Betriebssystems. Vielseitige Gast Hardware möglich.
-Flexible anpassung der Hardware. Hardware muss VM unterstützen.
-Hosted
-Benötigt auf der Hardware installiertes Betriebssystem.
-Virtualisierung benutzt Hardwarezugri" des Hosts und greift nicht direkt auf die Hardware zu.
+- Hyper-visor
+- Setzen direkt auf der Hardware auf und benötigen kein Betriebssystem -> dies setzt entsprechende Hardware voraus.
+- Vor-/Nachteile:
+-- Keine Anpassung des Gast Betriebssystems. 
+-- Vielseitige Gast Hardware möglich.
+-- Flexible anpassung der Hardware. 
+-- Hardware muss VM unterstützen.
 
-VPN erläutern:
+- Hosted
+-- Benötigt auf der Hardware installiertes Betriebssystem.
+-- Virtualisierung benutzt Hardwarezugri" des Hosts und greift nicht direkt auf die Hardware zu.
 
-Umsetzung mit IPSec
-Stellt Authentizität, Integrität und Vertraulichkeit der Daten sicher. Arbeitet auf OSI Layer 3
-Umsetzung mit SSL
-Secure Sockets Layer
-“Man in the middle”-Attacken unmöglich, da VPN Client und VPN Appliance das falsche Zertifikat erkennen -> ssl sehr sicher
+###### VPN erläutern:
 
-Verbindungstypen:
-End-to-site
-Beschreibt den Vorgang, bei dem Endbenutzer beispielsweise in ein Firmennetzwerk eingebunden werden.
-Site-to-site
-Oder auch Lan-to-lan genannt.
-Verbindet mehrere lokale Netzwerke über ein ö"entliches Netzwerk.
-End-to-end
-Ein Client greift auf einen anderen Client zu.
+- Umsetzung mit IPSec
+-- Stellt Authentizität, Integrität und Vertraulichkeit der Daten sicher. 
+-- Arbeitet auf OSI Layer 3
+- Umsetzung mit SSL
+-- Secure Sockets Layer
+-- “Man in the middle”-Attacken unmöglich, da VPN Client und VPN Appliance das falsche Zertifikat erkennen -> ssl sehr sicher
 
-Verbindungsmodi:
+###### Verbindungstypen:
+- End-to-site
+-- Beschreibt den Vorgang, bei dem Endbenutzer beispielsweise in ein Firmennetzwerk eingebunden werden.
+- Site-to-site
+-- Oder auch Lan-to-lan genannt.
+-- Verbindet mehrere lokale Netzwerke über ein ö"entliches Netzwerk.
+- End-to-end
+-- Ein Client greift auf einen anderen Client zu.
 
-Tunnelmodus:
-Das gesamte Paket wird verschlüsselt
-Das zu übertragene Datenpaket wird in ein weiteres Ip Datenpaket eingepackt Identität der Quelle und des ziels bleiben verboren è höhere Sicherheit
-Transportmodus:
-Ursprüngliche Ip Header werden beibehalten Daten werden veschlüsselt (Kapselung)
-Nicht so sicher wie Tunnelmodus, da nur Nutzdaten verschlüsselt werden Vorteile: Weniger Rechenarbeit è schnellere Verarbeitungszeit
+###### Verbindungsmodi:
 
-Verschlüsselungsverfahren:
-Symmetrisches:
-Secret Key Verfahren
-Ein einziger Schlüssel è zum Ver und Entschlüsseln
-Vor Datenübertragung muss sich auf einen Schlüssel geeinigt werden und übertragen werden
-Sicher ist die Übertragung nur, wenn der Schlüssel auf einem anderen Weg, als die Datenübertragung statt findet Asymmetrisches:
-Besteht aus public und private key
-Daten die mit dem ö"entlichen Schlüssel verschlüsselt werden, können nur mit dem privaten Schlüssel entschlüsselt werden Asymmetrische benötigen viel mehr Rechenleistung als symmetrische 
+- Tunnelmodus:
+-- Das gesamte Paket wird verschlüsselt
+-- Das zu übertragene Datenpaket wird in ein weiteres Ip Datenpaket eingepackt Identität der Quelle und des -- ziels bleiben verboren è höhere Sicherheit
+- Transportmodus:
+-- Ursprüngliche Ip Header werden beibehalten 
+-- Daten werden veschlüsselt (Kapselung)
+-- Nicht so sicher wie Tunnelmodus, da nur Nutzdaten verschlüsselt werden 
+-- Vorteile: Weniger Rechenarbeit schnellere Verarbeitungszeit
+
+###### Verschlüsselungsverfahren:
+- Symmetrisches:
+-- Secret Key Verfahren
+-- Ein einziger Schlüssel zum Ver und Entschlüsseln
+-- Vor Datenübertragung muss sich auf einen Schlüssel geeinigt werden und übertragen werden
+-- Sicher ist die Übertragung nur, wenn der Schlüssel auf einem anderen Weg, als die Datenübertragung statt findet 
+- Asymmetrisches:
+-- Besteht aus public und private key
+-- Daten die mit dem öfentlichen Schlüssel verschlüsselt werden, können nur mit dem privaten Schlüssel entschlüsselt werden 
+-- Asymmetrische benötigen viel mehr Rechenleistung als symmetrische 
+
+###### Welche Parameter werden bei DHCP übergeben?
+
+- IP-Adresse
+- Lease Time
+- Default Route
+- Netzmaske
+- DNS Server Adresse
+- WINS Server
+- Broadcast Adresse
+
+###### DNS erläutern:
+- Domain Name Server
+- Beantwortung von Aufgaben zur Namensauflösung
+
+###### Welche Veränderungen zwischen neuem Organigramm und altem (Organigrammarten).
+
+- Vorteile aus Sicht Geschäftsleitung 
+- Nachteile aus Sicht von Angestellten
+
+###### Bezugspreis ermitteln:
+
+- Listeneinkaufspreis * Lieferrabatt = Zieleinkaufspreis 
+- Zeleinkaufspreis * Skonto = Bareinkaufspreis
+- Barkeinkauspreis + Bezugskosten = Bezugspreis 
+
+###### Was spricht für Skonto?
+- Frühzeitige Zahlung
+- Erhalt der eigenen Liquidität 
+- Marketingargument 
+- Vermeidung von Zinsen
+
+###### Vorteile von SSD
+- Stoßfest
+- Kein Mechanischer Verschleiß
+- Größere Temperaturtoleranz
+- Geringere Zugrifszeiten und Latenz 
+- Niedrigerer Stromverbrauch
+- Höhere Schreib und Lesegeschwindigkeit
+
+###### Nachteile von SSD
+- Teurer
+- Begrenzte Anzahl von Schreibzyklen 
+- Nicht unbegrenzt über schreibbar
+- Geringere Auswahl an Herstellern
+- Sicheres Löschen von Daten nur mit Zusatztools möglich
+
+###### Raid 5:
+- Redundanz durch Parity Informationen
+- Verteilung von Parity und Daten auf mindestens 3 Platten
+- Verminderte Schreibgeschwindigkeit durch Partie 
+- Höhere Lesegeschwidnigkeit durch parallelen Zugrif
+
+###### Raid 10:
+- Kombination aus Raid 0 und Raid 1
+- Raid 0: Höhrer Transferraten durch Striping (paralelle Schreibzugrife) 
+- Raid 1: Volle Redundanz der Daten durch Spiegelung
+
+###### Gegen was schützt ein RAID nicht?
+
+- Bedienfehler 
+- Diebstahl 
+- Vandalismus 
+- Brand 
+- Überspannung
+
  
- 
+###### Warum muss bei RAID 10 dennoch eine Datensicherung erfolgen!?
 
- 
+- Jeden Datenänderung wird auf allen Datenträgern durchgeführt. Ungewollte Änderungen sind nicht widerrufbar.
 
-Welche Parameter werden bei DHCP übergeben?
+###### Möglichkeiten/Merkmale von VLAN’s nennen.
 
-IP-Adresse Lease Time Default Route Netzmaske
-DNS Server Adresse WINS Server Broadcast Adresse
-DNS erläutern:
-Domain Name Server
-Beantwortung von Aufgaben zur Namensauflösung
-
-Welche Veränderungen zwischen neuem Organigramm und altem (Organigrammarten).
-
-Vorteile aus Sicht Geschäftsleitung Nachteile aus Sicht von Angestellten
-       Bezugspreis ermitteln:
-
-Listeneinkaufspreis * Lieferrabatt = Zieleinkaufspreis Zeleinkaufspreis * Skonto = Bareinkaufspreis
-Barkeinkauspreis + Bezugskosten = Bezugspreis Nutzwertanalyse durchführen.
-Arten Vertragsstörungen nennen und beschreiben. Rügen und Mängel.
-Was spricht für Skonto?
-Frühzeitige Zahlung
-Erhalt der eigenen Liquidität Marketingargument Vermeidung von Zinsen
-
-Vorteile von SSD
-Stoßfest
-Kein Mechanischer Verschleiß Größere Temperaturtoleranz Geringere Zugri"szeiten und Latenz Niedrigerer Stromverbrauch
-Höhere Schreib und Lesegeschwindigkeit
-
-Nachteile von SSD
-Teurer
-Begrenzte Anzahl von Schreibzyklen Nicht unbegrenzt über schreibbar Geringere Auswahl an Herstellern
-Sicheres Löschen von Daten nur mit Zusatztools möglich
-
-RAID 5 und 10 vergleichen:
-
-Raid 5:
-Redundanz durch Parity Informationen
-Verteilung von Parity und Daten auf mindestens 3 Platten Verminderte Schreibgeschwindigkeit durch Partie Höhere Lesegeschwidnigkeit durch parallelen Zugri"
-
-Raid 10:
-Kombination aus Raid 0 und Raid 1
-Raid 0: Höhrer Transferraten durch Striping (paralelle Schreibzugri"e) Raid 1: Volle Redundanz der Daten durch Spiegelung
-
-Gegen was schützt ein RAID nicht?
-
-Bedienfehler Diebstahl Vandalismus Brand Überspannung
-
- 
-Warum muss bei RAID 10 dennoch eine Datensicherung erfolgen!?
-
-Jeden Datenänderung wird auf allen Datenträgern durchgeführt. Ungewollte Änderungen sind nicht widerrufbar.
-
-Möglichkeiten/Merkmale von VLAN’s nennen.
-
-Erstellen von logischen Gruppen innerhalb einer physischen Topologie Einfache Sicherheit durch Gruppen
-Bessere Nutzung der Bandbreite Priorisierung der Daten möglich
+- Erstellen von logischen Gruppen innerhalb einer physischen Topologie 
+- Einfache Sicherheit durch Gruppen
+- Bessere Nutzung der Bandbreite 
+- Priorisierung der Daten möglich
  
 
