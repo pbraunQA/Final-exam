@@ -2,12 +2,18 @@
 
 
 # Wiederholte Themen:
-- SQL Anweisungen SQL Datentypen Pflichten-/Lastenheft VLAN’s
-- Virtualisierung IPv6 und IPv4
+- SQL Anweisungen 
+- SQL Datentypen 
+- Pflichten-/Lastenheft 
+- VLAN’s
+- Virtualisierung 
+- IPv6 und IPv4
 - Datenbankmodell entwerfen Anwendungsfalldiagramm Sequenzdiagramm Zustandsdiagramm Programm Ablauf Plan
-- RAID-System USV’s
+- RAID-System 
+- USV’s
 - EPK
-- Organigram Nutzwertanalyse
+- Organigram 
+- Nutzwertanalyse
 
 ###### Bonitätsprüfung erläutern:
 - Ermittlung der Zahlungs- und Kreditfähigkeit des Unternehmens. Bei eingeschränkter Bonität erhöht sich die Leasingrate.
