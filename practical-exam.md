@@ -77,3 +77,17 @@ In der Softwaretechnik ist das Singleton-Pattern ein Software-Entwurfsmuster, da
 
 ![alt text](https://o.quizlet.com/VE0srKpNDQ7tU6b.wvCUvA.png)
 
+
+
+
+### link?
+- [Fachinformatiker - Allgemein](https://quizlet.com/de/195203566/fiae-fachinformatiker-anwendungsentwicklung-flash-cards/).
+- [Fachinformatiker - Allgemein2](https://quizlet.com/de/529531857/prufungsvorbereitung-fachinformatiker-anwendungsentwicklung-flash-cards/).
+- [Fachinformatiker - Allgemein3](https://www.repetico.de/cardset-cards-580931-GH1_-Fachinformatiker-Anwendungsentwicklung).
+- [Fachinformatiker - Fachbegriffe](https://www.repetico.de/cardset-cards-619243-Fachinformatiker---Fachbegriffe).
+- [OSI-Schichten](https://www.repetico.de/cardset-cards-1371219-OSI-Schichten).
+- [Datenschutz](https://www.karteikarte.com/lesson/121897/datenschutz).
+- [Sicherheit](https://www.karteikarte.com/lesson/73762/sicherheit-informatik).
+- [Rechtsformen](https://www.aachen.ihk.de/blueprint/servlet/resource/blob/605672/ab60155705a7ae93efac23472fabee8a/rechtsformen-uebersichtstabelle-data.pdf).
+- [Fragen aus dem Fachgespräch Fachinformatiker Anwendungsentwicklung](https://kiloherz.info/2016/05/fragen-aus-dem-fachgespraech-fachinformatiker-anwendungsentwicklung/).
+
