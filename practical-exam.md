@@ -78,9 +78,122 @@ In der Softwaretechnik ist das Singleton-Pattern ein Software-Entwurfsmuster, da
 ![alt text](https://o.quizlet.com/VE0srKpNDQ7tU6b.wvCUvA.png)
 
 
+# von schriftlichen Prüfungen 2021
 
 
-### link?
+### Level-Support als mehrstufiges System
+First-Level-Support
+- Der First-Level-Support ist die erste Anlaufstelle für alle eingehenden Unterstützungsfragen. Der Mitarbeiter ist für deren vollständige Erfassung inklusive aller erforderlichen Zusatzinformationen zuständig und bearbeitet sie nach seinem Kenntnisstand weitestgehend selbstständig.
+
+Second-Level-Support
+- Der Second-Level-Support unterstützt den First-Level-Support durch Übernahme komplexerer Anfragen und durch Weiterbildung am Arbeitsplatz. Neu erarbeitete Lösungen werden in Wissensdatenbanken eingepflegt, um das Wissen für den First-Level-Support nutzbar zu machen.
+
+Third-Level-Support
+- Der Third-Level-Support setzt sich aus Spezialisten einzelner Fachabteilungen und/oder des Herstellers zusammen und stellt so die höchste fachliche Ebene innerhalb einer Support-Organisation dar.
+
+
+### Argumente für ein Ticketsystem
+– Nachvollziehbarkeit aller Anfragen
+– Systematische Bearbeitung von Anfragen
+– Einhaltung von Service-Level-Agreements
+– Automatisierung von Antworten und Statusmeldungen
+– Kostenüberwachung für die Bearbeitung von Anfragen
+– Steuerung von Technikereinsätzen und Helpdesk-Personal
+
+
+### Raid 5 und 6
+- Bei einem RAID-6-Verbund werden im Vergleich zu einem RAID-5-Verbund zusätzliche (über den Plattenverbund verteilte) Parity Informationen angelegt. Diese zusätzlichen Parity Informationen bieten den Vorteil, dass auch beim zeitgleichen Ausfall von zwei Festplatten dennoch ein verlustfreies Rebuild aller Daten möglich ist.
+
+- In einem RAID-5-Verbund darf zeitgleich immer nur eine Festplatte ausfallen, um alle Daten verlustfrei wiederherstellen zu können.
+
+
+### Ergonomischen Raid
+– Bestimmte, energieoptimierte Festplatten wählen
+– RAID-Level mit günstigem Verhältnis von Nettospeicherkapazität zu Bruttospeicherkapazität wählen
+– Festplatten mit niedriger Drehzahl wählen (5.400 U/min statt 7.200 U/min)
+– 2,5‘‘ statt 3,5“ Festplatten verwenden
+– Festplatten im Energiesparmodus betreiben bzw. Energieoptionen anpassen
+– Festplatten mit native command queuing einsetzen
+– Verwendung von SSDs
+
+
+### Warum VLAN
+– Einrichtung logischer Gruppen innerhalb der physikalischen Topologie möglich
+– Bessere Lastverteilung möglich
+– Höhere Flexibilität durch einfache Änderung von Gruppenzugehörigkeiten
+– Einfachere Softwarekonfiguration durch Software für die Gruppen
+– Erhöhte Sicherheit durch Gruppierung (Subnetze)
+– Weniger Kollisionsbereiche (Broadcastdomänen)
+– Priorisierung des Datenverkehrs möglich
+
+### ADSL/VDSL vs SDSL
+– Asymmetrie der Bandbreite zwischen Up und Download
+
+– Für die Videotelefonie werden gleichermaßen hohe Bandbreiten für Up- und Download benötigt, da es sich um Echtzeitdatenübertragung handelt.
+
+
+### Bedrohungen die da gegen ein echt zeit schutz gibt
+
+– Phishing
+– Spyware
+– Malware
+– Network Intrusion
+
+
+### VPN Verbindungsarten
+– site-to-site
+– client-to-site (end-to-side)
+
+
+### Klasse
+Klasse: Definiert eine Kategorie von Objekten mit gleichen Attributen und Methoden. Sie stellt einen Bauplan für Objekte dar. 
+
+
+### Objekt
+Objekt: Ein Exemplar (lnstanz) einer Klasse
+
+
+### Aggregation
+Eine Aggregation ist eine Teil-Ganze-Beziehung, bei der die Teile auch unabhängig vom Ganzen existieren können.
+
+
+### Personenbezogene Daten Betroffenenrechte
+– Recht auf Auskunft
+– Recht auf Berichtigung
+– Recht auf Löschung
+– Recht auf Datenübertragbarkeit
+– Recht auf Widerspruch und Widerruf
+– Recht auf Einschränkung der Verarbeitung
+
+
+### Social Engineering
+Der Begriff Social Engineering bezeichnet eine Vorgehensweise, bei der die Schwachstelle Mensch ausgenutzt wird. Oft werden dabei Mitarbeiter eines Unternehmens mit einem Trick überredet, die normalen Sicherheitsvorkehrungen zu umgehen und sensible Informationen preiszugeben.
+
+
+### Aufgabe von Antivirenprogramme
+Antivirenprogramme erkennen Computerviren anhand bekannter Muster im Programmcode die in sogenannten Virensignaturen hinterlegt sind oder anhand typischer Verhaltensmuster. Sie informieren den Benutzer, isolieren befallene Programme (Quarantäne) oder löschen befallene Programme. Der Einsatz eines Antivirusprogramms bedeutet keine 100%ige Sicherheit und muss durch umsichtiges Verhalten ergänzt werden.
+
+
+### Daten verlust Ursachen 
+– Fehlbedienung
+– Elementarschaden, Wasserschaden, Brand
+– Technischer Defekt, Stromausfall beim Schreiben, Festplattendefekt
+
+
+### Differentielles Back up
+– Voll-Back-up
+– Des Weiteren Sicherung aller Dateien, die seit dem letzten Voll-Back-up geändert oder neu angelegt wurden
+
+
+### Inkrementelles back up
+– Voll-Back-up
+– Des Weiteren Sicherung der Dateien, die nach der jeweils letzten Sicherung geändert oder neu angelegt wurden
+
+
+### Asymmetrischen Verschlüsselung privaten und offentlichen schlüssel aufgabe
+– Der öffentliche Schlüssel ermöglicht es jedem, Daten für den Besitzer des privaten Schlüssels zu verschlüsseln. 
+– Der private Schlüssel ermöglicht es seinem Besitzer, mit dem öffentlichen Schlüssel verschlüsselte Daten zu entschlüsseln.
+### links
 - [Fachinformatiker - Allgemein](https://quizlet.com/de/195203566/fiae-fachinformatiker-anwendungsentwicklung-flash-cards/).
 - [Fachinformatiker - Allgemein2](https://quizlet.com/de/529531857/prufungsvorbereitung-fachinformatiker-anwendungsentwicklung-flash-cards/).
 - [Fachinformatiker - Allgemein3](https://www.repetico.de/cardset-cards-580931-GH1_-Fachinformatiker-Anwendungsentwicklung).
