@@ -30,14 +30,64 @@ In der Softwareentwicklung ist ein Framework ein Entwicklungsrahmen, der dem Anw
 ### Library vs FRAMEWORK?
 Bei einer Library ruft der Entwickler innerhalb seines Codes die Klassen und Funktionen der Bibliothek direkt auf. Hingegen ruft das Framework, eine bestimme Form der Library, vorgesehene Funktionen wenn nötig selbständig auf. Damit folgt es dem Paradigma „Inversion of Control“.
 
+### Was ist Docker?
+Docker legt Programme samt ihrer Abhängigkeiten in Images ab. Diese bilden die Basis für virtualisierte Container, die auf nahezu jedem Betriebssystem lauffähig sind. So werden Anwendungen portabel und unkompliziert, sei es während der Entwicklung oder beim Skalieren von SaaS-Clustern.
+
 ### was ist Kafka?
 Kafka wird häufig in Echtzeit-Streaming-Datenarchitekturen verwendet, um Echtzeitanalysen bereitzustellen. Laut Entwickler wurde die Software nach dem Autor Franz Kafka benannt, weil sie ein für das Schreiben optimiertes System darstellt. Die Software bietet den Anwendern hauptsächlich drei Funktionen:
 Veröffentlichung und Abonnement von Datenströmen
 Effektives Speichern von Datenströmen
 Verarbeiten von Streams in Echtzeit
+("Apache Kafka ist Pub-Sub-Messaging, das als verteiltes Commit-Log neu gedacht ist.
+Kafka ist ein verteilter, partitionierter, replizierter Commit-Log-Dienst.)
 
-### Was ist Docker?
-Docker legt Programme samt ihrer Abhängigkeiten in Images ab. Diese bilden die Basis für virtualisierte Container, die auf nahezu jedem Betriebssystem lauffähig sind. So werden Anwendungen portabel und unkompliziert, sei es während der Entwicklung oder beim Skalieren von SaaS-Clustern.
+### Was sind die verschiedenen Komponenten in Kafka?
+Topic, Producer, Consumer, Broker
+
+### Was ist ein Topic?
+Ein Datenstrom, der einer Tabelle in einer Datenbank ähnlich ist (ohne alle Beschränkungen)
+
+### Was ist ein producer?
+Producer geben Mitteilungen aus und veröffentlichen Nachrichten in einem Kafka-Topic
+
+### Was ist ein consumer?
+Ein consumer abonniert ein oder mehrere Topics und liest und verarbeitet auch Nachrichten aus dem Topic
+
+### Was ist ein consumer group?
+Ein oder mehrere consumers, die gemeinsam einen Satz von abonnierten topics konsumieren.
+
+### Was ist ein broker?
+Ein Kafka-Broker verwaltet die Speicherung von Nachrichten in einem oder mehreren Topic(s). Er wird auch als Kafka-Server oder -Knoten bezeichnet
+
+### Was ist die Rolle des Offsets?
+Eine fortlaufende ID-Nummer, die den Nachrichten in den Partitionen zugewiesen wird, um jede Nachricht in der Partition eindeutig zu identifizieren
+
+### Was ist die Aufgabe von ZooKeeper?
+Die Hauptaufgabe von Zookeeper besteht hier darin, die Koordination zwischen verschiedenen Knoten in einem Cluster herzustellen. Zookeeper wird auch für die Wiederherstellung eines zuvor festgelegten Offsets verwendet, wenn ein Knoten ausfällt.
+
+### Auflistung einiger Kafka-Benutzerfälle ?
+Messaging-System, Aktivitätsverfolgung, Sammeln von Metriken von vielen verschiedenen Orten, Sammeln von Anwendungsprotokollen, Entkopplung von Systemabhängigkeiten
+
+### Wie wird ein Topic identifiziert?
+Durch seinen Namen
+
+### Was ist ein partition?
+Ein Abschnitt eines topic, in dem Datensätze gespeichert werden. Er ermöglicht die Skalierung eines topics über viele Server und erlaubt parallele Verbraucher.
+
+### Sind die Daten geordnet, sobald sie in einem topic veröffentlicht wurden?
+Ordnung wird nur innerhalb einer Partition garantiert, nicht über Partitionen hinweg
+
+### Was ist ein Cluster?
+Ein Cluster besteht aus mehreren Brokern (Servern)
+
+### Wie wird ein Broker identifiziert?
+Ein Broker wird durch seine ID identifiziert
+
+### Wie stellt man eine Verbindung zu einem Kafka-Cluster her?
+Wenn Sie sich mit einem beliebigen Broker verbinden, werden Sie mit dem gesamten Cluster verbunden
+
+### Was ist die empfohlene Mindestanzahl an Brokern, mit der man beginnen sollte?
+3
 
 # design-patterns
 
