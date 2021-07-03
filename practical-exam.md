@@ -252,5 +252,6 @@ Antivirenprogramme erkennen Computerviren anhand bekannter Muster im Programmcod
 - [Datenschutz](https://www.karteikarte.com/lesson/121897/datenschutz).
 - [Sicherheit](https://www.karteikarte.com/lesson/73762/sicherheit-informatik).
 - [Rechtsformen](https://www.aachen.ihk.de/blueprint/servlet/resource/blob/605672/ab60155705a7ae93efac23472fabee8a/rechtsformen-uebersichtstabelle-data.pdf).
+- [firmenformen](https://quizlet.com/de/515311679/bwl-beschreibung-der-firmenformen-flash-cards/).
 - [Fragen aus dem Fachgespräch Fachinformatiker Anwendungsentwicklung](https://kiloherz.info/2016/05/fragen-aus-dem-fachgespraech-fachinformatiker-anwendungsentwicklung/).
 
